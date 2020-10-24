@@ -1,6 +1,6 @@
 import { debounce } from 'throttle-debounce';
 import { getAsset } from './assets';
-import { geCurrentState } from './state';
+import { getCurrentState } from './state';
 
 const Constants = require('../shared/constants');
 
